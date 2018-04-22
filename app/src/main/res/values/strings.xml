@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Welcome</string>
     <string name="welcome">Welcome to Android Development!!</string>
+    <string name="wolf">wolf looking at you</string>
 </resources>
